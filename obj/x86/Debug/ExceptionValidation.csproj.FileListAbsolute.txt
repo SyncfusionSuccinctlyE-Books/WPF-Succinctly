@@ -1,0 +1,15 @@
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\App.g.cs
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation_MarkupCompile.cache
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\MainWindow.g.cs
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation_MarkupCompile.lref
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\bin\Debug\ExceptionValidation.exe
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\bin\Debug\ExceptionValidation.pdb
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\MainWindow.baml
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation.g.resources
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation.Properties.Resources.resources
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation.exe
+c:\development\mvvm\ExceptionValidation\ExceptionValidation\obj\x86\Debug\ExceptionValidation.pdb

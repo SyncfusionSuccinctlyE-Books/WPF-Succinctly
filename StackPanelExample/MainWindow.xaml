@@ -1,0 +1,11 @@
+﻿<Window x:Class="StackPanelExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="StackPanel" Height="300" Width="300">
+    <StackPanel>
+        <TextBlock Margin="10" FontSize="20">How do you like your coffee?</TextBlock>
+        <Button Margin="10">Black</Button>
+        <Button Margin="10">With milk</Button>
+        <Button Margin="10">Latte macchiato</Button>
+        <Button Margin="10">Cappucino</Button>
+    </StackPanel>
+</Window>

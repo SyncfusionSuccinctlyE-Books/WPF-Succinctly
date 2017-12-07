@@ -1,0 +1,18 @@
+﻿<Window x:Class="Chapter01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="134" Width="515">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36*" />
+            <RowDefinition Height="91*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="0" Grid.Column="0" Content="Rendering Tier" />
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtRenderingTier" />
+        <Button x:Name="btnGetRenderingTier" Content="Get Rendering Tier" Grid.Row="1" Grid.Column="1" Width="130" Height="30" Click="btnGetRenderingTier_Click" />
+    </Grid>
+</Window>

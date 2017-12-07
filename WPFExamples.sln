@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackPanelExample", "StackPanelExample\StackPanelExample.csproj", "{10E95313-020D-4CCA-81DA-2BBB60395020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDataBinding", "SimpleDataBinding\SimpleDataBinding.csproj", "{FE651D3E-F2BE-4811-BC96-5F195CFA7A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding", "MultiBinding\MultiBinding.csproj", "{31ED5EA5-2F00-49E9-BD57-92D43B24DE39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E95313-020D-4CCA-81DA-2BBB60395020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E95313-020D-4CCA-81DA-2BBB60395020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E95313-020D-4CCA-81DA-2BBB60395020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E95313-020D-4CCA-81DA-2BBB60395020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE651D3E-F2BE-4811-BC96-5F195CFA7A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE651D3E-F2BE-4811-BC96-5F195CFA7A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE651D3E-F2BE-4811-BC96-5F195CFA7A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE651D3E-F2BE-4811-BC96-5F195CFA7A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ED5EA5-2F00-49E9-BD57-92D43B24DE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED5EA5-2F00-49E9-BD57-92D43B24DE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED5EA5-2F00-49E9-BD57-92D43B24DE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED5EA5-2F00-49E9-BD57-92D43B24DE39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

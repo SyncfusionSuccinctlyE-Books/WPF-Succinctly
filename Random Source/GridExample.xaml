@@ -1,0 +1,9 @@
+﻿<Window x:Class="WPFExamples.StackPanelExample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="StackPanel" Height="300" Width="300">
+    <StackPanel Orientation="Horizontal" Height="49" Width="247">
+        <Button Width="100" Margin="10">OK</Button>
+        <Button Width="100" Margin="10">Cancel</Button>
+    </StackPanel>
+</Window>

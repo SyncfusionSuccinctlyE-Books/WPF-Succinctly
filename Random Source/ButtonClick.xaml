@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPFExample.ButtonClick"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ButtonClick" Height="300" Width="300"
+        xmlns:viewModel="clr-namespace:WPFCommand">
+
+    <Window.Resources>
+        <viewModel:CommandViewModel x:Key="commandViewModel" />
+    </Window.Resources>
+    <Grid DataContext="{StaticResource ResourceKey=commandViewModel}">
+        <Button x:Name="btnFireEvent" Content="Fire event" 
+                Width="100" Height="100" Command="{Binding Path=ButtonClickCommand}" CommandParameter="{Binding}" />
+    </Grid>
+</Window>

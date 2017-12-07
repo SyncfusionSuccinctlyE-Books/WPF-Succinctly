@@ -1,0 +1,20 @@
+﻿<Window x:Class="WPFMVVMValidation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModel="clr-namespace:WPFMVVMValidation"
+        Title="MainWindow" Height="350" Width="525" xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit">
+    <Window.Resources>
+        <viewModel:MainWindowViewModel x:Key="mainViewModel"/>
+    </Window.Resources>
+    <StackPanel  DataContext="{Binding Source={StaticResource mainViewModel }}">
+        <TextBlock>Enter total amount</TextBlock>
+        <TextBox Width="200" Name="txtTotalAmount" >
+            <Binding UpdateSourceTrigger="PropertyChanged" Path="[0].TotalAmount" ValidatesOnDataErrors="True">
+            </Binding>
+        </TextBox>
+        <TextBox Width="{Binding ElementName=txtTotalAmount, Path=Width}" Name="txtName">
+            <Binding UpdateSourceTrigger="PropertyChanged" Path="[0].Name" ValidatesOnDataErrors="True"/>
+        </TextBox>
+        <Button Content="Button" Height="28" Name="button1" Width="84" Click="button1_Click" />
+    </StackPanel>
+</Window>

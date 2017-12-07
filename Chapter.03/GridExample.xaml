@@ -1,0 +1,22 @@
+﻿<Window x:Class="WPF.GridExample" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Title="GridExample" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Column="0" Grid.Row="0" Text="First name" />
+        <TextBox Grid.Column="1" Grid.Row="0" Text="Joe" />
+        <TextBlock Grid.Column="0" Grid.Row="1" Text="Last name" />
+        <TextBox Grid.Column="1" Grid.Row="1" Text="Jackson" />
+        <TextBlock Grid.Column="0" Grid.Row="2" Text="Email address" />
+        <TextBox Grid.Column="1" Grid.Row="2" Text="jjackson@email.com" />
+        <TextBlock Grid.Column="0" Grid.Row="3" Text="Telephone number" />
+        <TextBox Grid.Column="1" Grid.Row="3" Text="555-555-5555" />
+    </Grid>
+</Window>

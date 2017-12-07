@@ -1,0 +1,15 @@
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\bin\Debug\MultiBinding.exe.config
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\bin\Debug\MultiBinding.exe
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\bin\Debug\MultiBinding.pdb
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.csprojResolveAssemblyReference.cache
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MainWindow.g.cs
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\App.g.cs
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding_MarkupCompile.cache
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding_MarkupCompile.lref
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MainWindow.baml
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.g.resources
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.Properties.Resources.resources
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.csproj.GenerateResource.Cache
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.exe
+F:\w8bk\development\WPF\WPF Succinctly Source\WPFExamples\MultiBinding\obj\Debug\MultiBinding.pdb
